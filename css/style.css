@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    font-family:sans-serif;
+}
+
+ .hero{
+     width:100vw;
+     height:100vh;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaxhawcandlecompany.com%2F&psig=AOvVaw1z7XKE7WIApcTHDzZawQmY&ust=1617169604661000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjQgrGo1-8CFQAAAAAdAAAAABAG)
+
+ }
+ .hero h1{
+     fontsize: 5em;
+ }
+ div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
